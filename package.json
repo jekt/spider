@@ -1,9 +1,8 @@
 {
-  "name": "angular-seed",
-  "private": true,
+  "name": "spider",
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "",
+  "repository": "https://github.com/jekt/spider",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
